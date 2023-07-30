@@ -318,7 +318,7 @@ const projects = {
     },
     {
       name: "Portfolio-Website",
-      url: "https://github.com/Hrishi1999/opPortfolio",
+      url: "https://github.com/csinha134/myportfolio",
       description: "(This)My Portfolio using ReactJs",
       languages: [
         {

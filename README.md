@@ -30,7 +30,7 @@ This is my personal portfolio website built using React.js. The website showcase
 
 ## Deployment
 
-The website is automatically deployed using Vercel. Any changes pushed to the main branch of the GitHub repository trigger a new deployment. The live version can be accessed at [https://your-website-url.com](https://your-website-url.com).
+The website is automatically deployed using Vercel. Any changes pushed to the main branch of the GitHub repository trigger a new deployment. The live version can be accessed at [https://chayansinha.vercel.app](https://chayansinha.vercel.app).
 
 ## Local Development
 

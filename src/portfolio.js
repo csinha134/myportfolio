@@ -157,8 +157,8 @@ const degrees = {
       duration: "2006 - 2020",
       descriptions: [
         "⚡ I opted for Science Stream and have studied Physics , Chemistry , Mathematics , Computer Science",
-        "⚡ I was the President of Indian Musical Society",
-        "⚡ I was Vice President of Activity Council of our school ",
+        "⚡ Served as the Vice President Activity Council of the prefectorial body/student council.",
+        "⚡ Served as the President of the Music Club of DPS Mathura Road",
       ],
       website_link: "https://dpsmathuraroad.org/",
     },
@@ -216,7 +216,7 @@ const experience = {
           duration: "Jun 2023 - Jul 2023",
           location: "Bengaluru , Karnataka",
           description:
-            "RDC Team | CREDIT RISK | Worked on a full stack application to automate the tedious task of SRE (Site Reliability Engineering), I not only honed my technical skills but also gained a deeper understanding of real-world challenges and solutions.",
+            "FRDC Team | CREDIT RISK | Worked on a full stack application to automate the tedious task of SRE (Site Reliability Engineering), I not only honed my technical skills but also gained a deeper understanding of real-world challenges and solutions.",
           color: "#0071C5",
         },
         {
@@ -244,7 +244,7 @@ const experience = {
           location: " ",
           description:
             "A part of the Student chapter responsible for conducting various events and recruiting new members in the society",
-          color: "#4285F4",
+          color: "#ee3c26",
         },
         {
           title: "DebSoc Literary Society",
@@ -254,8 +254,19 @@ const experience = {
           duration: "Aug 2021 - Jul 2022",
           location: " ",
           description:
-            "A part of the Student chapter responsible for conducting various events and recruiting new members in the society",
+            "Responsible for conducting various debating events in college and also taking part in them",
           color: "#4285F4",
+        },
+        {
+          title: "Google Developer Student CLubs",
+          company: "Joint Convener",
+          company_url: "",
+          logo_path: "gdsc.png",
+          duration: "Aug 2021 - Jul 2022",
+          location: " ",
+          description:
+            "Member of the GDSC team ,learnt to make open source contributions",
+          color: "green",
         },
       ],
     },
@@ -414,6 +425,7 @@ const projects = {
         {
           name: "Flask",
           iconifyClass: "logos-flask",
+          color: "#E34F26",
         },
       ],
     },

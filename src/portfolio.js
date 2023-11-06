@@ -340,7 +340,7 @@ const projects = {
     },
     {
       name: "Aakashवाणी",
-      url: " ",
+      url: " https://github.com/csinha134/opengl-computergraphics-AAKASH-",
       description:
         "Computer Graphics + Streamlit application with realtime weather simulation",
       languages: [
